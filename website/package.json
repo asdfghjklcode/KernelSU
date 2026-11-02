@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "KernelSU official website: https://kernelsu.org",
   "main": "index.js",
-  "repository": "https://kernelsu.org",
+  "repository": "https://ksu.benzene.cc",
   "author": "weishu",
   "license": "MIT",
   "devDependencies": {

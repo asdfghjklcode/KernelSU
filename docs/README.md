@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 A kernel-based root solution for Android devices.
 
@@ -15,8 +15,8 @@ A kernel-based root solution for Android devices.
 ## Features
 
 1. Kernel-based `su` and root access management.
-2. Module system based on [metamodules](https://kernelsu.org/guide/metamodule.html): Pluggable infrastructure for systemless modifications.
-3. [App Profile](https://kernelsu.org/guide/app-profile.html): Lock up the root power in a cage.
+2. Module system based on [metamodules](https://ksu.benzene.cc/guide/metamodule.html): Pluggable infrastructure for systemless modifications.
+3. [App Profile](https://ksu.benzene.cc/guide/app-profile.html): Lock up the root power in a cage.
 
 ## Compatibility state
 
@@ -31,9 +31,9 @@ Currently, the `arm64-v8a` and `x86_64` architectures are supported.
 
 ## Usage
 
-- [Installation](https://kernelsu.org/guide/installation.html)
-- [How to build](https://kernelsu.org/guide/how-to-build.html)
-- [Official website](https://kernelsu.org/)
+- [Installation](https://ksu.benzene.cc/guide/installation.html)
+- [How to build](https://ksu.benzene.cc/guide/how-to-build.html)
+- [Official website](https://ksu.benzene.cc/)
 
 ## Translation
 

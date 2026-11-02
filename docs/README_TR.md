@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Android cihazlar için çekirdek tabanlı root çözümü.
 
@@ -15,8 +15,8 @@ Android cihazlar için çekirdek tabanlı root çözümü.
 ## Özellikler
 
 1. Çekirdek-tabanlı `su` ve root erişimi yönetimi.
-2. [metamodules](https://kernelsu.org/guide/metamodule.html)'ye dayalı modül sistemi: Sistemsiz modifikasyonlar için takılabilir altyapı.
-3. [Uygulama profili](https://kernelsu.org/guide/app-profile.html): Root gücünü bir kafese kapatın.
+2. [metamodules](https://ksu.benzene.cc/guide/metamodule.html)'ye dayalı modül sistemi: Sistemsiz modifikasyonlar için takılabilir altyapı.
+3. [Uygulama profili](https://ksu.benzene.cc/guide/app-profile.html): Root gücünü bir kafese kapatın.
 
 ## Uyumluluk Durumu
 
@@ -31,9 +31,9 @@ Bununla birlikte; WSA, ChromeOS ve konteyner tabanlı Android'in tamamı destekl
 
 ## Kullanım
 
-- [Yükleme yönergeleri](https://kernelsu.org/guide/installation.html)
-- [Nasıl derlenir?](https://kernelsu.org/guide/how-to-build.html)
-- [Resmi WEB sitesi](https://kernelsu.org/)
+- [Yükleme yönergeleri](https://ksu.benzene.cc/guide/installation.html)
+- [Nasıl derlenir?](https://ksu.benzene.cc/guide/how-to-build.html)
+- [Resmi WEB sitesi](https://ksu.benzene.cc/)
 
 ## Çeviri
 

@@ -16,8 +16,8 @@ class TemplateRepositoryImpl : TemplateRepository {
 
     companion object {
         private const val TAG = "TemplateRepository"
-        private const val TEMPLATE_INDEX_URL = "https://kernelsu.org/templates/index.json"
-        private const val TEMPLATE_URL = "https://kernelsu.org/templates/%s"
+        private const val TEMPLATE_INDEX_URL = "https://ksu.benzene.cc/templates/index.json"
+        private const val TEMPLATE_URL = "https://ksu.benzene.cc/templates/%s"
     }
 
     override suspend fun getTemplates(sync: Boolean): Result<List<TemplateInfo>> = withContext(Dispatchers.IO) {

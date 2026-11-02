@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 안드로이드 기기에서 사용되는 커널 기반 루팅 솔루션입니다.
 
@@ -15,8 +15,8 @@
 ## 기능들
 
 1. 커널 기반 `su` 및 루트 액세스 관리.
-2. [metamodules](https://kernelsu.org/guide/metamodule.html) 기반 모듈 시스템: 플러그인 가능한 시스템리스 수정 인프라.
-3. [App Profile](https://kernelsu.org/guide/app-profile.html): 루트 권한을 케이지에 가둡니다.
+2. [metamodules](https://ksu.benzene.cc/guide/metamodule.html) 기반 모듈 시스템: 플러그인 가능한 시스템리스 수정 인프라.
+3. [App Profile](https://ksu.benzene.cc/guide/app-profile.html): 루트 권한을 케이지에 가둡니다.
 
 ## 호환 상태
 
@@ -31,9 +31,9 @@ KernelSU는 WSA, ChromeOS, 컨테이너 기반 안드로이드 모두를 지원�
 
 ## 사용 방법
 
-- [설치 방법](https://kernelsu.org/guide/installation.html)
-- [어떻게 빌드하나요?](https://kernelsu.org/guide/how-to-build.html)
-- [공식 웹사이트](https://kernelsu.org/)
+- [설치 방법](https://ksu.benzene.cc/guide/installation.html)
+- [어떻게 빌드하나요?](https://ksu.benzene.cc/guide/how-to-build.html)
+- [공식 웹사이트](https://ksu.benzene.cc/)
 
 ## 번역
 

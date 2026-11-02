@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Android におけるカーネルベースの root ソリューションです。
 
@@ -15,8 +15,8 @@ Android におけるカーネルベースの root ソリューションです。
 ## 特徴
 
 1. カーネルベースの `su` と権限管理。
-2. [metamodules](https://kernelsu.org/ja_JP/guide/metamodule.html) に基づくモジュールシステム: プラグイン可能なシステムレス変更インフラストラクチャ。
-3. [アプリのプロファイル](https://kernelsu.org/guide/app-profile.html): root の権限をケージ内に閉じ込めます。
+2. [metamodules](https://ksu.benzene.cc/ja_JP/guide/metamodule.html) に基づくモジュールシステム: プラグイン可能なシステムレス変更インフラストラクチャ。
+3. [アプリのプロファイル](https://ksu.benzene.cc/guide/app-profile.html): root の権限をケージ内に閉じ込めます。
 
 ## 対応状況
 
@@ -31,9 +31,9 @@ WSA 、ChromeOS とコンテナ上で動作する Android でも KernelSU を統
 
 ## 使用方法
 
-- [インストール方法はこちら](https://kernelsu.org/ja_JP/guide/installation.html)
-- [ビルド方法はこちら](https://kernelsu.org/guide/how-to-build.html)
-- [公式サイト](https://kernelsu.org/ja_JP/)
+- [インストール方法はこちら](https://ksu.benzene.cc/ja_JP/guide/installation.html)
+- [ビルド方法はこちら](https://ksu.benzene.cc/guide/how-to-build.html)
+- [公式サイト](https://ksu.benzene.cc/ja_JP/)
 
 ## 翻訳
 

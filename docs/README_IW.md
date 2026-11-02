@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 פתרון לניהול root מבוסס על Kernel עבור מכשירי Android.
 
@@ -15,8 +15,8 @@
 ## תכונות
 
 1. ניהול root ו־`su` מבוססים על Kernel.
-2. מערכת מודולים מבוססת [metamodules](https://kernelsu.org/guide/metamodule.html): תשתית מודולרית לשינויים systemless.
-3. [פרופיל אפליקציה](https://kernelsu.org/guide/app-profile.html): נעילת גישת root בכלוב.
+2. מערכת מודולים מבוססת [metamodules](https://ksu.benzene.cc/guide/metamodule.html): תשתית מודולרית לשינויים systemless.
+3. [פרופיל אפליקציה](https://ksu.benzene.cc/guide/app-profile.html): נעילת גישת root בכלוב.
 
 ## מצב תאימות
 
@@ -31,9 +31,9 @@ KernelSU תומך במכשירי Android GKI 2.0 (kernel 5.10+) באופן רש�
 
 ## שימוש
 
-- [הוראות התקנה](https://kernelsu.org/guide/installation.html)
-- [איך לבנות?](https://kernelsu.org/guide/how-to-build.html)
-- [האתר רשמי](https://kernelsu.org/)
+- [הוראות התקנה](https://ksu.benzene.cc/guide/installation.html)
+- [איך לבנות?](https://ksu.benzene.cc/guide/how-to-build.html)
+- [האתר רשמי](https://ksu.benzene.cc/)
 
 ## תרגום
 

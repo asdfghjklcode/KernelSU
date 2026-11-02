@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Решение на основе ядра root для Android-устройств.
 
@@ -15,8 +15,8 @@
 ## Особенности
 
 1. Управление `su` и root-доступом на основе ядра.
-2. Система модулей на основе [metamodules](https://kernelsu.org/ru_RU/guide/metamodule.html): Подключаемая инфраструктура для безсистемных модификаций.
-3. [Профиль приложений](https://kernelsu.org/ru_RU/guide/app-profile.html): Запри корневую силу в клетке.
+2. Система модулей на основе [metamodules](https://ksu.benzene.cc/ru_RU/guide/metamodule.html): Подключаемая инфраструктура для безсистемных модификаций.
+3. [Профиль приложений](https://ksu.benzene.cc/ru_RU/guide/app-profile.html): Запри корневую силу в клетке.
 
 ## Совместимость
 
@@ -31,9 +31,9 @@ WSA и Android на основе контейнеров также должны 
 
 ## Использование
 
-- [Установка](https://kernelsu.org/ru_RU/guide/installation.html)
-- [Как собрать?](https://kernelsu.org/ru_RU/guide/how-to-build.html)
-- [официальный сайт](https://kernelsu.org/ru_RU/)
+- [Установка](https://ksu.benzene.cc/ru_RU/guide/installation.html)
+- [Как собрать?](https://ksu.benzene.cc/ru_RU/guide/how-to-build.html)
+- [официальный сайт](https://ksu.benzene.cc/ru_RU/)
 
 ## Обсуждение
 

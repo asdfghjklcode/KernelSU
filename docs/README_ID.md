@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Solusi root berbasis kernel untuk perangkat Android.
 
@@ -15,8 +15,8 @@ Solusi root berbasis kernel untuk perangkat Android.
 ## Fitur
 
 1. Akses `su` dan manajemen hak akses root berbasis kernel.
-2. Sistem modul berbasis [metamodules](https://kernelsu.org/id_ID/guide/metamodule.html): Infrastruktur yang dapat dicopot-pasang untuk modifikasi systemless.
-3. [Profil Aplikasi](https://kernelsu.org/guide/app-profile.html): Kendalikan hak akses root secara aman.
+2. Sistem modul berbasis [metamodules](https://ksu.benzene.cc/id_ID/guide/metamodule.html): Infrastruktur yang dapat dicopot-pasang untuk modifikasi systemless.
+3. [Profil Aplikasi](https://ksu.benzene.cc/guide/app-profile.html): Kendalikan hak akses root secara aman.
 
 ## Status Kompatibilitas
 
@@ -31,9 +31,9 @@ Saat ini, arsitektur `arm64-v8a` dan `x86_64` sudah didukung.
 
 ## Penggunaan
 
-- [Pemasangan](https://kernelsu.org/id_ID/guide/installation.html)
-- [Cara Build](https://kernelsu.org/id_ID/guide/how-to-build.html)
-- [Situs Web Resmi](https://kernelsu.org/id_ID/)
+- [Pemasangan](https://ksu.benzene.cc/id_ID/guide/installation.html)
+- [Cara Build](https://ksu.benzene.cc/id_ID/guide/how-to-build.html)
+- [Situs Web Resmi](https://ksu.benzene.cc/id_ID/)
 
 ## Terjemahan
 

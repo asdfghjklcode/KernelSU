@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Android उपकरणों के लिए कर्नेल-आधारित रूट समाधान।
 
@@ -15,8 +15,8 @@ Android उपकरणों के लिए कर्नेल-आधार�
 ## विशेषताएँ
 
 1. कर्नेल-आधारित `su` और रूट एक्सेस प्रबंधन।
-2. [metamodules](https://kernelsu.org/guide/metamodule.html) पर आधारित मॉड्यूल प्रणाली: Systemless संशोधनों के लिए प्लगेबल इंफ्रास्ट्रक्चर।
-3. [App Profile](https://kernelsu.org/guide/app-profile.html): Root शक्ति को पिंजरे में बंद कर दो।
+2. [metamodules](https://ksu.benzene.cc/guide/metamodule.html) पर आधारित मॉड्यूल प्रणाली: Systemless संशोधनों के लिए प्लगेबल इंफ्रास्ट्रक्चर।
+3. [App Profile](https://ksu.benzene.cc/guide/app-profile.html): Root शक्ति को पिंजरे में बंद कर दो।
 
 ## अनुकूलता अवस्था
 
@@ -31,9 +31,9 @@ KernelSU आधिकारिक तौर पर Android GKI 2.0 डिवा�
 
 ## प्रयोग
 
-- [स्थापना निर्देश](https://kernelsu.org/guide/installation.html)
-- [कैसे बनाना है ?](https://kernelsu.org/guide/how-to-build.html)
-- [आधिकारिक वेबसाइट](https://kernelsu.org/)
+- [स्थापना निर्देश](https://ksu.benzene.cc/guide/installation.html)
+- [कैसे बनाना है ?](https://ksu.benzene.cc/guide/how-to-build.html)
+- [आधिकारिक वेबसाइट](https://ksu.benzene.cc/)
 
 ## अनुवाद करना
 

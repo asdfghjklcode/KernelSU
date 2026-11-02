@@ -14,7 +14,7 @@ export default defineConfig( {
         }],
     ],
     sitemap: {
-        hostname: 'https://kernelsu.org'
+        hostname: 'https://ksu.benzene.cc'
     },
     buildEnd: async (config: SiteConfig) => {
         const templateDir = resolve(config.outDir, 'templates');

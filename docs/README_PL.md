@@ -2,7 +2,7 @@
 
 # KernelSU
 
-<img src="https://kernelsu.org/logo.png" style="width: 96px;" alt="logo">
+<img src="https://ksu.benzene.cc/logo.png" style="width: 96px;" alt="logo">
 
 Rozwiązanie root oparte na jądrze dla urządzeń z systemem Android.
 
@@ -15,7 +15,7 @@ Rozwiązanie root oparte na jądrze dla urządzeń z systemem Android.
 ## Cechy
 
 1. Oparte na jądrze `su` i zarządzanie dostępem roota.
-2. System modułów oparty na [metamodules](https://kernelsu.org/guide/metamodule.html): Wtykowa infrastruktura dla modyfikacji systemless.
+2. System modułów oparty na [metamodules](https://ksu.benzene.cc/guide/metamodule.html): Wtykowa infrastruktura dla modyfikacji systemless.
 
 ## Kompatybilność
 
@@ -30,8 +30,8 @@ Obecnie obsługiwane są architektury `arm64-v8a` oraz `x86_64`.
 
 ## Użycie
 
-- [Instalacja](https://kernelsu.org/guide/installation.html)
-- [Jak skompilować?](https://kernelsu.org/guide/how-to-build.html)
+- [Instalacja](https://ksu.benzene.cc/guide/installation.html)
+- [Jak skompilować?](https://ksu.benzene.cc/guide/how-to-build.html)
 
 ## Tłumaczenie
 
